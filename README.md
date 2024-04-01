@@ -1,8 +1,11 @@
 # Santander Dev Week 2024
 
 ## Observações: 
-Esse repositório é uma reprodução de uma série de Lives feitas no youtube e na plataforma da DIO [Santander-Dev-Week-2024](https://web.dio.me/play?section_type=dev_week). O projeto original está no link do [Repositório da DIO no GitHub](https://github.com/digitalinnovationone/santander-dev-week-2024).
-Apesar de ser uma reprodução foi criada uma API diferente do projeto original que está publicada na minha nuvem da AWS o projeto está rodando no link: [Swagger Application](http://sdwx2024.sa-east-1.elasticbeanstalk.com/swagger-ui/index.html#/). Se quiser a ver a execução com o FrontEnd é só copiar o código que está na (pasta `/docs`) deste repositório.
+Esse repositório é uma reprodução de uma série de Lives feitas no youtube e na plataforma da DIO [Santander-Dev-Week-2024](https://web.dio.me/play?section_type=dev_week). 
+O projeto original está no link do [Repositório da DIO no GitHub](https://github.com/digitalinnovationone/santander-dev-week-2024).
+Apesar de ser uma reprodução foi criada uma API diferente, do projeto original que está publicada na minha nuvem da AWS o projeto está rodando no link: [Swagger Application](http://sdwx2024.sa-east-1.elasticbeanstalk.com/swagger-ui/index.html#/). Se quiser a ver a execução com o FrontEnd é só copiar o código que está na (pasta `/docs`) deste repositório, está numa pasta separada pois foi desenvolvido usando o Visual Studio Code, enquanto o backend foi feito no Intellij.
+
+![Projeto FrontEnd](https://github.com/Danaraujoc/santander-dev-week-2024/blob/main/docs/assets/Image%20Application.jpg)
 
 ## 📚 Sobre o Projeto
 
@@ -44,16 +47,6 @@ _Passo a passo para gerar seus **CERTIFICADOS** na plataforma da DIO:_
 - _Ao acessar a live pelo link, basta clicar no botão "Concluir atividade";_
 - _Depois, é só clicar na sua foto de perfil e selecionar a opção "Certificados";_
 - _Pronto! Agora é só baixar seus certificados e compartilhar conosco seu feedback!_
-
-## ♨️ Como Participar dos Bootcamps Santander 2024
-
-> [!IMPORTANT] 
-> Ainda não garantiu a sua vaga? **Inscreva-se até 08/04/2024 nos [Bootcamps Santander 2024](https://bit.ly/48S4DCy)** para uma experiência educacional completa, explorando em detalhes os temas praticados durante a imersão da Santander Dev Week 2024. Nesse sentido, as opções de Bootcamps Santander disponíveis para matrícula na plataforma da DIO são:
-> 
-> 1. [Backend com Java e Spring Boot](https://web.dio.me/track/santander-2024-backend-com-java)
-> 2. [Certificação AWS Cloud Practitioner (CLF-C02)](https://web.dio.me/track/santander-2024-preparatorio-certificacao-aws)
-> 3. [Desenvolvimento de Jogos com Godot](https://web.dio.me/track/santander-2024-criando-jogos-com-godot) 
-> 4. [Fundamentos de IA Para Devs](https://web.dio.me/track/santander-2024-fundamentos-de-ia-para-devs) 
 
 ## 🏛️ Arquitetura do Projeto
 
